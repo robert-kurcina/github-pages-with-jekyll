@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Temporary -- KILL ME!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Crapola! Ding dong. Burrito!
